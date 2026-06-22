@@ -1,2 +1,2 @@
-print("A")
+print("daj c powiedzmy")
 print("b")
